@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, react, JS, PHP, Android(Android studio)**
 
-- 📫 How to reach me **karan.h.panchal786@gmail.com**
+- 📫 How to reach me **karanhpanchal09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

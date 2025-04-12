@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Three Js**
 
-- 💬 Ask me about **Java, react, JS, PHP, Android(Android studio)**
+- 💬 Ask me about **Java, React, Next.Js, React Native, JS, PHP**
 
 - 📫 How to reach me **karanhpanchal09@gmail.com**
 
@@ -19,7 +19,7 @@
 <a href="https://twitter.com/_karanpanchal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_karanpanchal__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanpanchal999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanpanchal999" height="30" width="40" /></a>
 <a href="https://fb.com/karan.panchal.735507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karan.panchal.735507" height="30" width="40" /></a>
-<a href="https://instagram.com/__karan.panchal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karan.panchal__" height="30" width="40" /></a>
+<a href="https://instagram.com/karanpanchal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karanpanchal09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karan_panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_panchal" height="30" width="40" /></a>
 </p>
 

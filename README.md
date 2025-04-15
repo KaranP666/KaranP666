@@ -1,4 +1,8 @@
-<img align="center" alt="" width="100%" height="350" src="https://github.com/KaranP666/KaranP666/assets/83541879/ec7a0c4a-3386-4c8a-b98b-810fc31b9fc7" >
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22)](https://git.io/typing-svg)
+
+</div>
 <h1 align="center">Hi 👋, I'm Karan Panchal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">

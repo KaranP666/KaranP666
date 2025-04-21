@@ -5,7 +5,12 @@
 </div>
 <h1 align="center">Hi 👋, I'm Karan Panchal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">-->
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/126805c5-e10f-4c19-9eff-9e814636726b">
+<!-- ![ChatGPT Image Apr 21, 2025, 12_08_13 PM-Photoroom](https://github.com/user-attachments/assets/126805c5-e10f-4c19-9eff-9e814636726b) -->
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanp666&label=Profile%20views&color=0e75b6&style=flat" alt="karanp666" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_karanpanchal__" target="blank"><img src="https://img.shields.io/twitter/follow/_karanpanchal__?logo=twitter&style=for-the-badge" alt="_karanpanchal__" /></a> </p>
